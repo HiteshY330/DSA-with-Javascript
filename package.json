@@ -3,6 +3,7 @@
     "nodemon": "^3.1.14"
   },
   "scripts": {
-    "recursion": "nodemon Recursion/index.js"
+    "recursion": "nodemon Recursion/index.js",
+    "linked-list": "nodemon Linked_list/index.js"
   }
 }
